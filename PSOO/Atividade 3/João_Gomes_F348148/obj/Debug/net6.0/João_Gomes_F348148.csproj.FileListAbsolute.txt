@@ -1,0 +1,15 @@
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\bin\Debug\net6.0\João_Gomes_F348148.exe
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\bin\Debug\net6.0\João_Gomes_F348148.deps.json
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\bin\Debug\net6.0\João_Gomes_F348148.runtimeconfig.json
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\bin\Debug\net6.0\João_Gomes_F348148.dll
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\bin\Debug\net6.0\João_Gomes_F348148.pdb
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.dll
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\refint\João_Gomes_F348148.dll
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.pdb
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\João_Gomes_F348148.genruntimeconfig.cache
+C:\Users\Desenvolvimento\Desktop\Atividade Hoje\João_Gomes_F348148\João_Gomes_F348148\obj\Debug\net6.0\ref\João_Gomes_F348148.dll
